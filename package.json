@@ -1,7 +1,7 @@
 {
-  "name": "realtime-server",
+  "name": "chatroom",
   "version": "0.0.1",
-  "description": "my first realtime server",
+  "description": "my chatroom using node and socketio",
   "dependencies": {},
   "devDependencies": {
     "body-parser": "^1.14.1",
